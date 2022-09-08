@@ -1,3 +1,8 @@
+# React-Memo
+react memo in Tamil | how to avoid re-render in react hooks ? <br />
+One day ago, I encountered parent to multiple child component list re-render in react component problems on my project.<br/>I used to React memo in this problem solved.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
